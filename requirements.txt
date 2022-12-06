@@ -1,0 +1,2 @@
+termcolor==2.0.1
+-e git+https://github.com/OilyChunk6/utilitaire.git@a74dc4b054df876f021c73bfdb4808d5edb3d772#egg=utilipy6j5
